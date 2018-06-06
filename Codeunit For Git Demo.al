@@ -1,3 +1,5 @@
+//Comment
+
 codeunit 73020000 MyCodeunit
 {
     trigger OnRun();
